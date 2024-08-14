@@ -56,6 +56,10 @@ main {
 .atividadeContainer {
     display: flex;
     align-items: center;
-    justify-content: center;
     gap: 5rem;
+}
+
+.checkStyle {
+    text-decoration:line-through;
+    background-color: rgb(184, 184, 184);
 }

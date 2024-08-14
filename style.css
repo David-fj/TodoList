@@ -59,7 +59,10 @@ main {
     gap: 5rem;
 }
 
+.atividadeContainer input:checked ~ p{
+    text-decoration: line-through;
+}
+
 .checkStyle {
-    text-decoration:line-through;
-    background-color: rgb(184, 184, 184);
+    
 }

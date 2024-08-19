@@ -62,7 +62,3 @@ main {
 .atividadeContainer input:checked ~ p{
     text-decoration: line-through;
 }
-
-.checkStyle {
-    
-}
